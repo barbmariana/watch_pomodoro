@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Moves</string>
+    <string name="home_title">Moves</string>
+    <string name="home_next_in">Next in %1$s</string>
+    <string name="home_next_type">%1$s</string>
+    <string name="home_paused">Paused</string>
+    <string name="home_settings">Settings</string>
+    <string name="home_enabled">Reminders</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_interval">Interval</string>
+    <string name="settings_active_start">Start</string>
+    <string name="settings_active_end">End</string>
+    <string name="settings_move_duration">Move goal</string>
+    <string name="settings_snooze">Snooze</string>
+    <string name="unit_min">%1$d min</string>
+    <string name="unit_hour_min">%1$02d:%2$02d</string>
+
+    <string name="reminder_move">Time to move!</string>
+    <string name="reminder_water">Drink water</string>
+    <string name="alert_done">Done</string>
+    <string name="alert_snooze">Snooze</string>
+    <string name="alert_steps">%1$d / %2$d steps</string>
+    <string name="alert_move_progress">Walk for %1$d min</string>
+
+    <string name="notif_channel_alert">Reminders</string>
+    <string name="notif_channel_alert_desc">Move and water reminders</string>
+
+    <string name="tile_label">Moves</string>
+    <string name="tile_paused">Paused</string>
+    <string name="tile_next_in">Next %1$s</string>
+    <string name="tile_next_type">%1$s</string>
+</resources>
